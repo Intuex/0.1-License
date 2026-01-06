@@ -1,4 +1,4 @@
-# Intuex Open Source License v0.1
+# Intuex License v0.1
 ## Non-Commercial Use License
 
 **Copyright (c) 2025 Intuex Organization**
@@ -202,3 +202,4 @@ For README files, add this badge:
 ---
 
 **END OF LICENSE**
+
